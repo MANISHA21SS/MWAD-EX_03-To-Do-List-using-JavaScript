@@ -142,6 +142,7 @@ addBtn.addEventListener("click", () => {
 });
 
 
+
 clearBtn.addEventListener("click", () => {
     taskList.innerHTML = "";
 });
