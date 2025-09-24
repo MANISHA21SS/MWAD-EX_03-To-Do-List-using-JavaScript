@@ -1,5 +1,8 @@
 # MWAD-EX_03-To-Do-List-using-JavaScript
-## Date: 17/9/2025
+## Date: 24/9/2025
+
+## Name: Manisha selvakumari.S.S.
+## REG NO: 212223220055
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
